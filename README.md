@@ -179,7 +179,6 @@ I also plan to learn backend technologies, streaming infrastructure, CDN archite
 ## 👥 Target Audience
 
 - Anime Enthusiasts
-- Students
 - Young Adults
 - Streaming Platform Users
 - Entertainment Content Consumers
@@ -196,7 +195,7 @@ The project demonstrates frontend development skills, responsive design principl
 
 ## 👨‍💻 Author
 
-**Riswan Mohamed**
+**Basma Riswan**
 
 BCA Student | Frontend Developer | Future Full-Stack Developer
 
